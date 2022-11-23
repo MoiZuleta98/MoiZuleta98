@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello 👋👋
 
-<!--
-**MoiZuleta98/MoiZuleta98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Moisés, i'm from Argentina and i'm a developer web.
 
-Here are some ideas to get you started:
+●  Recientemente egresado de digital house 🎓
+●  Actualmente estoy aprendiendo lenguajes, herramientas de desarrollo y mejorando mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+● Node Js
+● React
+● Express
+● HTML
+● CSS
+● Javascript
+● MySQL
+● Creación y consumo de APIs
+● Git
+● Metodologías Ágiles - Scrum
+● OOP
+● Patrón de arquitectura MVC
+● Postman
+● Sequelize
+● VSCode
+
+
+
