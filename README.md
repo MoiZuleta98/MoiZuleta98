@@ -6,7 +6,7 @@ My name is Moisés, i'm from Argentina and i'm a developer web.
 ●  Actualmente estoy aprendiendo lenguajes, herramientas de desarrollo y mejorando mis habilidades.
 
 
-## Skills
+## Skills 🔭
 
 ● Node Js
 ● React
@@ -23,6 +23,15 @@ My name is Moisés, i'm from Argentina and i'm a developer web.
 ● Postman
 ● Sequelize
 ● VSCode
+
+
+## Contact 📫
+
+● moises.zuleta98@gmail.com
+
+● linkedin.com/in/moisés-zuleta-849420217
+
+
 
 
 
