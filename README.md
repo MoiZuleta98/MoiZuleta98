@@ -2,9 +2,9 @@
 
 My name is Moisés, i'm from Argentina and i'm a developer web.
 
-●  Recientemente egresado de digital house 🎓
+●  Recently graduated from digital house 🎓
 
-●  Actualmente estoy aprendiendo lenguajes, herramientas de desarrollo y mejorando mis habilidades.
+●  I am currently learning languages, development tools and improving my skills.
 
 
 ## Skills 🔭
