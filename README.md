@@ -3,6 +3,7 @@
 My name is Moisés, i'm from Argentina and i'm a developer web.
 
 ●  Recientemente egresado de digital house 🎓
+
 ●  Actualmente estoy aprendiendo lenguajes, herramientas de desarrollo y mejorando mis habilidades.
 
 
@@ -29,7 +30,6 @@ My name is Moisés, i'm from Argentina and i'm a developer web.
 
 ● moises.zuleta98@gmail.com
 
-● linkedin.com/in/moisés-zuleta-849420217
 
 
 
